@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://velog.io/@aszx4280" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20c996?style=plastic&logo=#20C997&logoColor=FFFFFFF"/></a>
+<a href="https://velog.io/@aszx4280" target="_blank"><img src="https://img.shields.io/badge/DevBlog-20c996?style=plastic&logo=Velog&logoColor=FFFFFFF"/></a>
 <!--
 **CupRaccoon/CupRaccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
